@@ -11,8 +11,10 @@ const Navbar = () => {
         <a href="#home" className="active">
           Home
         </a>
-        <a href="#education">Education</a>
-        <a href="#services">Services</a>
+        <a href="#education">Educación</a>
+        <a href="#proyectos">Proyectos</a>
+        <a href="#services">Servicios</a>
+        <a href="#contact">Conacto</a>
       </nav>
     </header>
   );
