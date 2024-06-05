@@ -8,12 +8,12 @@ const Proyectos = () => {
         <div className="border-1 rounded-l bg-slate-800 m-5">
           <div className="m-2">
             <img
-              src="src\assets\img\sistemaExperto.PNG"
+              src="src\assets\img\portafolio.PNG"
               alt=""
               className="opacity-80 hover:opacity-100"
             />
             <h4 className="font-bold my-2">
-              Sistema Experto de recomendaciones turísticas
+              Portafolio Personal
             </h4>
             <article className="flex justify-between">
               <div className="flex flex-nowrap items-center">
