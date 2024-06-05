@@ -54,7 +54,7 @@ const Navbar = () => {
         <a href="#services" className={activeSection === "#services" ? "active" : ""}>
           Servicios
         </a>
-        <a href="#contact" className={activeSection === "#contact" ? "active" : ""}>
+        <a href="mailto:josuel.jl57@gmail.com" className={activeSection === "#contact" ? "active" : ""}>
           Contacto
         </a>
       </nav>
