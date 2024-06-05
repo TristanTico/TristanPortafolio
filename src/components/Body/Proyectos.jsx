@@ -1,5 +1,8 @@
 import React from "react";
 
+import sistemaExperto from '../../assets/img/sistemaExperto.png';
+import portafolio from '../../assets/img/portafolio.png';
+
 const Proyectos = () => {
   return (
     <div>
@@ -8,7 +11,7 @@ const Proyectos = () => {
         <div className="border-1 rounded-l bg-slate-800 m-5">
           <div className="m-2">
             <img
-              src="src\assets\img\portafolio.png"
+              src={portafolio}
               alt=""
               className="opacity-80 hover:opacity-100"
             />
@@ -38,7 +41,7 @@ const Proyectos = () => {
         <div className="border-1 rounded-l bg-slate-800 m-5">
           <div className="m-2">
             <img
-              src="src\assets\img\sistemaExperto.png"
+              src={sistemaExperto}
               alt=""
               className="opacity-80 hover:opacity-100"
             />
