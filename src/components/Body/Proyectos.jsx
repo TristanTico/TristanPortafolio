@@ -4,7 +4,7 @@ const Proyectos = () => {
   return (
     <div>
       <h2 className="heading">Proyectos</h2>
-      <section className="my-12 flex flex-col items-center justify-center w-[90%] m-auto lg:flex-row">
+      <section id="proyectos" className="my-12 flex flex-col items-center justify-center w-[90%] m-auto lg:flex-row">
         <div className="border-1 rounded-l bg-slate-800 m-5">
           <div className="m-2">
             <img
