@@ -51,9 +51,6 @@ const Navbar = () => {
         <a href="#proyectos" className={activeSection === "#proyectos" ? "active" : ""}>
           Proyectos
         </a>
-        <a href="#services" className={activeSection === "#services" ? "active" : ""}>
-          Servicios
-        </a>
         <a href="mailto:josuel.jl57@gmail.com" className={activeSection === "#contact" ? "active" : ""}>
           Contactos
         </a>
