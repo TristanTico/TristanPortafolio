@@ -21,6 +21,10 @@ const Habilidades = () => {
               <span className="mt-4 text-xl text-white font-semibold">JavaScript</span>
             </div>
             <div className="flex flex-col justify-center items-center h-full">
+              <i className="fa-brands fa-java text-9xl text-yellow-500"></i>
+              <span className="mt-4 text-xl text-white font-semibold">JAVA</span>
+            </div>
+            <div className="flex flex-col justify-center items-center h-full">
               <i className="fab fa-react text-9xl text-blue-500"></i>
               <span className="mt-4 text-xl text-white font-semibold">React</span>
             </div>
